@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-16T01:34:35.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BXZLgPCXnHJixpT67U3K" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-16T01:37:52.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sbWnR4f-G3Jo6woJmoYs" version="20.2.3" type="github" pages="2">
   <diagram id="iqewJmT9oCiTFV7i0BS5" name="Page-1">
     <mxGraphModel dx="1342" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
           <mxGeometry x="520" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rQ1fXNf4-gPQiC90uyRu-4" value="大数据分析平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rQ1fXNf4-gPQiC90uyRu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rQ1fXNf4-gPQiC90uyRu-5" target="rQ1fXNf4-gPQiC90uyRu-6">
           <mxGeometry relative="1" as="geometry" />
@@ -136,6 +136,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rQ1fXNf4-gPQiC90uyRu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rQ1fXNf4-gPQiC90uyRu-6" target="rQ1fXNf4-gPQiC90uyRu-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ1fXNf4-gPQiC90uyRu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rQ1fXNf4-gPQiC90uyRu-6" target="rQ1fXNf4-gPQiC90uyRu-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rQ1fXNf4-gPQiC90uyRu-6" value="资产入库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -156,8 +159,20 @@
         <mxCell id="rQ1fXNf4-gPQiC90uyRu-8" value="漏洞采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rQ1fXNf4-gPQiC90uyRu-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="rQ1fXNf4-gPQiC90uyRu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rQ1fXNf4-gPQiC90uyRu-15" target="rQ1fXNf4-gPQiC90uyRu-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ1fXNf4-gPQiC90uyRu-15" value="资产画像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ1fXNf4-gPQiC90uyRu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rQ1fXNf4-gPQiC90uyRu-19" target="rQ1fXNf4-gPQiC90uyRu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ1fXNf4-gPQiC90uyRu-19" value="漏洞研判" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rQ1fXNf4-gPQiC90uyRu-21" value="漏洞管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
