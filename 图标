@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T14:56:05.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="UPulDUMqvTrV-e3zY-PX" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-12T14:56:20.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eSQXdS2bVeiF61Mp-f1a" version="20.5.3" type="github" pages="4">
   <diagram id="iqewJmT9oCiTFV7i0BS5" name="Page-1">
     <mxGraphModel dx="1342" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,12 +213,6 @@
         <mxCell id="qpxjK1U8Gk6tmuLcjqvX-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#FF0000;shape=mxgraph.mscae.enterprise.firewall" parent="1" vertex="1">
           <mxGeometry x="107.54" y="100" width="31.82" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="qpxjK1U8Gk6tmuLcjqvX-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="217" y="320" width="70" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="qpxjK1U8Gk6tmuLcjqvX-4" value="边界防火墙保护域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="310" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="qpxjK1U8Gk6tmuLcjqvX-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -287,6 +281,12 @@
         </mxCell>
         <mxCell id="qpxjK1U8Gk6tmuLcjqvX-30" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#006600;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.virtual_machine;" parent="1" vertex="1">
           <mxGeometry x="270" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eKSmwJnyWCo8ke_ykESx-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="47" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eKSmwJnyWCo8ke_ykESx-2" value="边界防火墙保护域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
