@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T02:16:55.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="SuA0ZW2pL4mu03YuRgt8" version="20.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-01-05T02:17:16.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NqiYExmx6DLp6kIIEjAW" version="20.8.1" type="github" pages="8">
   <diagram id="iqewJmT9oCiTFV7i0BS5" name="Page-1">
     <mxGraphModel dx="1461" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -872,7 +872,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6BkMfTV1oDipqgBRkrc_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="6BkMfTV1oDipqgBRkrc_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="70" y="90" width="440" height="270" as="geometry" />
         </mxCell>
         <mxCell id="8I26RiCAjZ26Gt7AgoWo-2" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
