@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T07:55:56.470Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wQyqJ5qkze-6QjdyFSYG" version="21.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-02T07:57:32.564Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dk39ju2Vf6QLymue4ri0" version="21.6.2" type="github" pages="8">
   <diagram id="iqewJmT9oCiTFV7i0BS5" name="Page-1">
-    <mxGraphModel dx="1114" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,9 @@
         </mxCell>
         <mxCell id="WVmifcZHve3BLspxFWfv-32" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.nac;" parent="1" vertex="1">
           <mxGeometry x="743.5" y="630" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CE6rKvQCw5AGSnBirtFi-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;武汉区域中心&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="116" y="1227" width="202" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
